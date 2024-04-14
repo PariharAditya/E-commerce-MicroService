@@ -9,7 +9,7 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>notificationService</artifactId>
+    <artifactId>notificationservice</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <name>notificationService</name>
