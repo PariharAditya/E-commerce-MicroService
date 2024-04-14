@@ -19,6 +19,7 @@
         <module>productService</module>
         <module>orderService</module>
         <module>inventoryService</module>
+        <module>notificationService</module>
     </modules>
 
     <properties>
